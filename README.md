@@ -1,8 +1,8 @@
-### Hi there 👋, my name is NIshant Sahay
+### Hi there 👋, my name is Nishant Sahay
 #### I am a beginner at VLSI front end developing
 Bachelors in Electronics and Communication. Currently an intern at Indicus Technology.
 
-Skills: Verilog / Arduino IDE / C 
+Skills: Verilog / Arduino IDE / C / MATLAB
 
 - 🌱 I’m currently learning Verilog 
 - 📫 How to reach me: nishantsahay1234@gmail.com 
