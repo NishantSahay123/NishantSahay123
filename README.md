@@ -16,6 +16,9 @@ Skills: Verilog / Arduino IDE / C / MATLAB
 - 🌱 I’m currently learning Verilog 
 - 📫 How to reach me: nishantsahay1234@gmail.com 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantSahay123&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSahay123&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/NishantSahay123" class="rich-diff-level-one">
+    <img height="210" align="center" src="https://github-readme-stats.vercel.app/api?username=NishantSahay123&show_icons=true&theme=midnight-purple&&hide_border=true"/>
+    <img height="210" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSahay123&theme=dark">
+  </a>
+</p>
